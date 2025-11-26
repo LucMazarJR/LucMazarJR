@@ -87,15 +87,6 @@ API criada em **Node.js puro**, sem frameworks.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=7&theme=tokyonight" alt="Top languages"/>
-</div>
-
----
-
 ## 🎯 Objetivos 2025
 
 - [ ] Contribuir para projetos open source em React e Node.js  
