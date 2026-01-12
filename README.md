@@ -60,22 +60,25 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/LucMazarJR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/LucMazarJR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=8&theme=radical" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucMazarJR&theme=radical&hide_border=false" />
-</p>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&custom_title=Contribuições%20nos%20últimos%2031%20dias&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&theme=github-compact&area=true&hide_border=true" />
-</p>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucMazarJR&theme=tokyonight" />
+
+</div>
+
+## 📊 Análise de Código
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMazarJR&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucMazarJR&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMazarJR&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucMazarJR&theme=tokyonight&utcOffset=-3" />
+
+</div>
 
 ---
 
@@ -123,36 +126,26 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 
 ## 🏆 Projetos em Destaque
 
-### 🌟 [Apojobs - Plataforma de Empregos Inclusiva](https://github.com/LucMazarJR/tic-2025-front)
-
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-Plataforma web inclusiva que conecta **profissionais com deficiência (PCDs)** a **empresas comprometidas com diversidade e inclusão**.
-
-**✨ Principais Features:**
-- 📝 Formulários multi-etapas com validação completa
-- 📊 Exportação de dados em formato Excel
-- ♿ Interface totalmente acessível (WCAG)
-- 🎨 Design system responsivo com Tailwind CSS
-- 🔍 Sistema de busca e filtros avançados
-- 🎯 **Missão:** Promover inclusão digital e profissional
-
----
-
-### 🏥 [MedBot - Assistente Médico Virtual](https://github.com/LucMazarJR/hackathon-2025)
-
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-Sistema de assistência médica virtual desenvolvido para o **Hackathon 2025**, com chatbot inteligente, autenticação e dashboards interativos.
-
-**✨ Principais Features:**
-- 🤖 Chatbot com IA integrada via OpenAI API
-- 📊 Dashboards personalizados por perfil de usuário
-- 🔐 Autenticação segura e controle de acesso
-- 💻 CRUD completo com arquitetura escalável
-- ⚡ Performance otimizada e cache inteligente
-
-**👥 Equipe:** Davi Muniz, Diego Melo, Luciano Neves, Renan Prado
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Apojobs</h3>
+<div align="center">
+<a href="https://github.com/LucMazarJR/tic-2025-front" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
+<p><strong>React • TypeScript • Tailwind CSS</strong></p>
+<p>Plataforma web inclusiva que conecta profissionais com deficiência (PCDs) a empresas comprometidas com diversidade e inclusão</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">MedBot</h3>
+<div align="center">
+<a href="https://github.com/LucMazarJR/hackathon-2025" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"></a>
+<p><strong>React • Node.js • PostgreSQL • OpenAI</strong></p>
+<p>Sistema de assistência médica virtual desenvolvido para o Hackathon 2025, com chatbot inteligente e dashboards interativos</p>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
