@@ -1,116 +1,198 @@
-# 👋 Olá! Eu sou o Luciano Mazarão Jr
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
+  <img src="./img/github-banner.png" alt="Banner GitHub" width="100%" />
 </div>
 
----
-
-## 🚀 Sobre Mim
-
-Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-FACEF**, apaixonado por transformar ideias em soluções tecnológicas reais.  
-Gosto de entender como as coisas funcionam por trás do código — do backend ao design da interface — e acredito que **a tecnologia deve ser acessível e inclusiva**.
-
-🎯 Atualmente estou estudando **React**, **Prisma** e **arquitetura de APIs escaláveis**, aprimorando meu foco em desenvolvimento web moderno com boas práticas e performance.
-
-📫 Como me encontrar: **lmazaraojr@gmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/luciano-mazarao-jr-264a342ba/)
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+<h1 align="center">👋 Olá! Eu sou o Luciano Mazarão Jr</h1>
 
 <div align="center">
-
-### 🧩 Linguagens
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### ⚙️ Frameworks & Bibliotecas
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### ☁️ Ferramentas & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### 🎨 Frontend & Estilização
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 </div>
 
----
-
-## 🏆 Projetos em Destaque
-
-### 🌟 [Apojobs — Plataforma de Empregos Inclusiva](https://github.com/LucMazarJR/apojobs)  
-Plataforma web inclusiva que conecta **profissionais PCDs** com **empresas comprometidas com diversidade e inclusão**.
-
-- **Stack:** React, TypeScript, Vite, Tailwind, React Router DOM  
-- **Destaques:** formulários multi-step com validação, exportação de dados para Excel, design system acessível  
-- **Objetivo:** promover **inclusão digital e profissional**  
-- **Status:** Em desenvolvimento
-
----
-
-### 🏥 [MedBot — Assistente Médico Virtual](https://github.com/DiegoHenriqueMelo/hackathon-2025)  
-Sistema criado para o **Hackathon 2025**, com chatbot inteligente, autenticação e dashboards.
-
-- **Stack:** React, TypeScript, Node.js, Express, PostgreSQL, OpenAI API  
-- **Destaques:** dashboards por função, CRUD completo, IA integrada  
-- **Status:** Em evolução  
-- **Equipe:** Davi Muniz, Diego Melo, Luciano Neves, Renan Prado
-
----
-
-### 🎧 [Podcast Manager](https://github.com/LucMazarJR/dp-podcast-manager)  
-API criada em **Node.js puro**, sem frameworks.
-
-- **Tech Stack:** Node.js, JavaScript, HTTP nativo  
-- **Aprendizado:** fundamentos de APIs REST, manipulação de requests/responses, modularização
-
----
-
-## 🎯 Objetivos 2025
-
-- [ ] Contribuir para projetos open source em React e Node.js  
-- [ ] Aprofundar conhecimentos em **Prisma ORM** e **arquitetura de APIs escaláveis**  
-- [ ] Criar um portfólio pessoal com projetos full-stack  
-- [ ] Participar de novos hackathons e desafios técnicos
-
----
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/luciano-mazarao-jr-264a342ba/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lmazaraojr@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/LucMazarJR">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucMazarJR&color=blue&style=for-the-badge&label=VISITANTES" alt="Profile views" />
+</p>
+
+---
+
+## 🚀 Sobre Mim
+
+<table>
+<tr>
+<td>
+
+```typescript
+const luciano = {
+  nome: "Luciano Mazarão Jr",
+  cargo: "Desenvolvedor Full Stack",
+  educacao: "Engenharia de Software @ Uni-FACEF",
+  localização: "Brasil 🇧🇷",
+  foco: ["React", "Prisma", "APIs Escaláveis"],
+  paixao: "Transformar ideias em soluções reais",
+  valores: ["Inclusão", "Acessibilidade", "Inovação"]
+};
+```
+
+</td>
+</tr>
+</table>
+
+Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-FACEF**, apaixonado por transformar ideias em soluções tecnológicas reais. Gosto de entender como as coisas funcionam por trás do código - do backend ao design da interface - e acredito que **a tecnologia deve ser acessível e inclusiva**.
+
+🎯 **Atualmente estudando:** React, Prisma e arquitetura de APIs escaláveis, com foco em desenvolvimento web moderno, boas práticas e performance.
+
+---
+
+## � Estatísticas do GitHub
+
+<div align="center">
+  
+<a href="https://github.com/LucMazarJR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucMazarJR&theme=tokyonight&hide_border=true&background=0d1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2196F3&line=2196F3&point=58a6ff" alt="Contribution Graph" />
+</div>
+
+---
+
+## �🛠️ Tecnologias & Ferramentas
+
+### 🧩 Linguagens
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Frameworks & Bibliotecas
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🗄️ Banco de Dados & ORM
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### ☁️ Ferramentas & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🎨 Frontend & Estilização
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## 🏆 Projetos em Destaque
+
+### 🌟 [Apojobs - Plataforma de Empregos Inclusiva](https://github.com/LucMazarJR/apojobs)
+
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)![Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+Plataforma web inclusiva que conecta **profissionais com deficiência (PCDs)** a **empresas comprometidas com diversidade e inclusão**.
+
+**✨ Principais Features:**
+- 📝 Formulários multi-etapas com validação completa
+- 📊 Exportação de dados em formato Excel
+- ♿ Interface totalmente acessível (WCAG)
+- 🎨 Design system responsivo com Tailwind CSS
+- 🔍 Sistema de busca e filtros avançados
+- 🎯 **Missão:** Promover inclusão digital e profissional
+
+---
+
+### 🏥 [MedBot - Assistente Médico Virtual](https://github.com/DiegoHenriqueMelo/hackathon-2025)
+
+![Status](https://img.shields.io/badge/Status-Hackathon%202025-green?style=for-the-badge)![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+Sistema de assistência médica virtual desenvolvido para o **Hackathon 2025**, com chatbot inteligente, autenticação e dashboards interativos.
+
+**✨ Principais Features:**
+- 🤖 Chatbot com IA integrada via OpenAI API
+- 📊 Dashboards personalizados por perfil de usuário
+- 🔐 Autenticação segura e controle de acesso
+- 💻 CRUD completo com arquitetura escalável
+- ⚡ Performance otimizada e cache inteligente
+
+**👥 Equipe:** Davi Muniz, Diego Melo, Luciano Neves, Renan Prado
+
+---
+
+### 🎧 [Podcast Manager](https://github.com/LucMazarJR/dp-podcast-manager)
+
+![Status](https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTTP](https://img.shields.io/badge/HTTP-Native-005571?style=for-the-badge)
+
+API RESTful para gerenciamento de podcasts criada em **Node.js puro**, sem uso de frameworks externos.
+
+**✨ Principais Aprendizados:**
+- 🎯 Fundamentos sólidos de APIs RESTful
+- 📡 Manipulação nativa de HTTP (request/response)
+- 🧩 Arquitetura modular e organizada
+- 🔧 Compreensão profunda do runtime Node.js
+
+---
+
+## 🎯 Objetivos 2025
+
+```diff
++ Contribuir para projetos open source em React e Node.js
++ Aprofundar conhecimentos em Prisma ORM e arquitetura de APIs escaláveis
++ Criar um portfólio pessoal com projetos full-stack
++ Participar de novos hackathons e desafios técnicos
+```
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LucMazarJR/LucMazarJR/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucMazarJR&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+  
+### 💬 "A tecnologia é mais do que código - é sobre criar soluções que impactam vidas."
 
-<div align="center">
+<br />
+
+**Desenvolvido com 💙 por Luciano Mazarão Jr**
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" width="100%" />
 
 </div>
