@@ -28,7 +28,7 @@
 
 Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-FACEF**, apaixonado por transformar ideias em soluções tecnológicas reais. Gosto de entender como as coisas funcionam por trás do código - do backend ao design da interface - e acredito que **a tecnologia deve ser acessível e inclusiva**.
 
-🎯 **Atualmente estudando:** React, Prisma e arquitetura de APIs escaláveis, com foco em desenvolvimento web moderno, boas práticas e performance.
+🎯 **Atualmente estudando:** Práticas de DevOps (CI/CD com GitHub Actions), Docker e containerização, testes automatizados, .NET e princípios SOLID para desenvolvimento web escalável e de qualidade.
 
 ---
 
@@ -123,13 +123,14 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 
 ---
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 ```diff
-+ Contribuir para projetos open source em React e Node.js
-+ Aprofundar conhecimentos em Prisma ORM e arquitetura de APIs escaláveis
-+ Criar um portfólio pessoal com projetos full-stack
-+ Participar de novos hackathons e desafios técnicos
++ Conquistar primeira oportunidade como estagiário ou desenvolvedor júnior
++ Obter certificações em cloud computing (Azure Fundamentals)
++ Contribuir ativamente para projetos open source
++ Desenvolver aplicativos mobile com React Native ou Flutter
++ Dominar frameworks C# (.NET Core/ASP.NET) para backend robusto
 ```
 
 ---
