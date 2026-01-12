@@ -2,7 +2,7 @@
   <img src="./img/github-banner.png" alt="Banner GitHub" width="100%" />
 </div>
 
-<h1 align="center">👋 Olá! Eu sou o Luciano Mazarão Jr</h1>
+<h1 align="center">Luciano Mazarão Jr</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
@@ -28,11 +28,13 @@
 
 ## 🚀 Sobre Mim
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
 ```typescript
+
+
 const luciano = {
   nome: "Luciano Mazarão Jr",
   cargo: "Desenvolvedor Full Stack",
@@ -42,6 +44,8 @@ const luciano = {
   paixao: "Transformar ideias em soluções reais",
   valores: ["Inclusão", "Acessibilidade", "Inovação"]
 };
+
+
 ```
 
 </td>
@@ -57,16 +61,20 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+  <a href="https://github.com/LucMazarJR">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/LucMazarJR">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=8&theme=radical" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucMazarJR&theme=tokyonight&hide_border=false&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=LucMazarJR&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&theme=tokyo-night&bg_color=0d1117&color=2196F3&line=2196F3&point=58a6ff&area=true&hide_border=false&border_radius=10" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&theme=github-compact&area=true&hide_border=true" />
 </p>
 
 ---
