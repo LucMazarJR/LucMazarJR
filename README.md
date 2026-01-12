@@ -57,8 +57,8 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <br>
