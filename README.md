@@ -71,6 +71,12 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucMazarJR&theme=tokyonight&hide_border=true&background=0d1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2196F3&line=2196F3&point=58a6ff" alt="Contribution Graph" width="95%" />
+</div>
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -117,9 +123,9 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 
 ## 🏆 Projetos em Destaque
 
-### 🌟 [Apojobs - Plataforma de Empregos Inclusiva](https://github.com/LucMazarJR/apojobs)
+### 🌟 [Apojobs - Plataforma de Empregos Inclusiva](https://github.com/LucMazarJR/tic-2025-front)
 
-![Status](https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 Plataforma web inclusiva que conecta **profissionais com deficiência (PCDs)** a **empresas comprometidas com diversidade e inclusão**.
 
@@ -133,9 +139,9 @@ Plataforma web inclusiva que conecta **profissionais com deficiência (PCDs)** a
 
 ---
 
-### 🏥 [MedBot - Assistente Médico Virtual](https://github.com/DiegoHenriqueMelo/hackathon-2025)
+### 🏥 [MedBot - Assistente Médico Virtual](https://github.com/LucMazarJR/hackathon-2025)
 
-![Status](https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 Sistema de assistência médica virtual desenvolvido para o **Hackathon 2025**, com chatbot inteligente, autenticação e dashboards interativos.
 
