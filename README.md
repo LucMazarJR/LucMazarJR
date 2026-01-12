@@ -2,8 +2,6 @@
   <img src="./img/github-banner.png" alt="Banner GitHub" width="100%" />
 </div>
 
-<h1 align="center">Luciano Mazarão Jr</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 </div>
@@ -27,30 +25,6 @@
 ---
 
 ## 🚀 Sobre Mim
-
-<table width="100%">
-<tr>
-<td>
-
-```typescript
-
-
-const luciano = {
-  nome: "Luciano Mazarão Jr",
-  cargo: "Desenvolvedor Full Stack",
-  educacao: "Engenharia de Software @ Uni-FACEF",
-  localizacao: "Brasil 🇧🇷",
-  foco: ["React", "Prisma", "APIs Escaláveis"],
-  paixao: "Transformar ideias em soluções reais",
-  valores: ["Inclusão", "Acessibilidade", "Inovação"]
-};
-
-
-```
-
-</td>
-</tr>
-</table>
 
 Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-FACEF**, apaixonado por transformar ideias em soluções tecnológicas reais. Gosto de entender como as coisas funcionam por trás do código - do backend ao design da interface - e acredito que **a tecnologia deve ser acessível e inclusiva**.
 
