@@ -56,22 +56,18 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucMazarJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucMazarJR&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucMazarJR&theme=tokyonight&hide_border=false&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&border_radius=10" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucMazarJR&theme=tokyonight&hide_border=true&background=0d1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2196F3&line=2196F3&point=58a6ff" alt="Contribution Graph" width="95%" />
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&theme=tokyo-night&bg_color=0d1117&color=2196F3&line=2196F3&point=58a6ff&area=true&hide_border=false&border_radius=10" />
+</p>
 
 ---
 
