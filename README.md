@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="./img/github-banner.png" alt="Banner GitHub" width="100%" />
 </div>
 
@@ -36,23 +36,34 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&custom_title=Contribuições%20nos%20últimos%2031%20dias&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucMazarJR&custom_title=Contribuições%20nos%20últimos%2031%20dias&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucMazarJR&theme=tokyonight" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucMazarJR&theme=tokyonight" alt="Profile Details" />
 
 </div>
+
+---
 
 ## 📊 Análise de Código
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMazarJR&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucMazarJR&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMazarJR&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucMazarJR&theme=tokyonight&utcOffset=-3" />
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMazarJR&theme=tokyonight" alt="Repos per language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucMazarJR&theme=tokyonight" alt="Most commit language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMazarJR&theme=tokyonight" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucMazarJR&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -131,16 +142,3 @@ Sou **desenvolvedor full stack** e estudante de **Engenharia de Software na Uni-
 + Contribuir ativamente para projetos open source
 + Desenvolver aplicativos mobile com React Native ou Flutter
 + Dominar frameworks C# (.NET Core/ASP.NET) para backend robusto
-```
-
----
-
-<div align="center">
-  
-### 💬 "A tecnologia é mais do que código - é sobre criar soluções que impactam vidas."
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" width="100%" />
-
-</div>
